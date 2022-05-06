@@ -13,4 +13,5 @@ What the Website Does:
 * Makes the PincerColor a real toy!
 
 TinkerCad image for anyone wondering what this is:
+
 ![image](https://ethanrepo.github.io/pincercolor-extension/pincercolortinkercad.png)
