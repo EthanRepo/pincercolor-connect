@@ -1,4 +1,4 @@
-# PincerColor Extension
+# PincerColor Connect™
 Project for Engineering: Design and Modeling for school. This needs an external piece (that we created)
 The project is based on a toy you need to make for a child, the example is Daniel, a 3 year-old with a developing pincer grasp.
 
