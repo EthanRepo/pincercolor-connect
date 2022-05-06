@@ -8,4 +8,6 @@ What the Website Does:
 * Connects the PincerColor (Toy) *Just Visual, doesn't actually connect via USB*
 * Runs two Scripts; Easy and Hard (Easy = 1 color, Hard = 2 colors)
 * Makes the PincerColor a real toy!
+
 TinkerCad image for anyone wondering what this is:
+(
