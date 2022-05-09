@@ -16,6 +16,15 @@ background-color:#1c1c1c;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.subheader {
+  font-size:15px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 .blue {
 color:#5b94f0;
