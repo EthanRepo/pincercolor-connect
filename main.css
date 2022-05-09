@@ -7,23 +7,19 @@ color:#ffffff;
 font-family: 'Nunito', sans-serif;
 background-color:#1c1c1c;
 }
-.header {
-  font-size:60px;
-    margin: 0;
+.title {
+ margin: 0;
     padding: 0;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.header {
+  font-size:60px;
+}
 .subheader {
   font-size:15px;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .blue {
@@ -43,5 +39,11 @@ color:#fcfc23;
 }
 
 .bg {
-filter:blur(8px)6
+ margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  filter:blur(8px);
 }
