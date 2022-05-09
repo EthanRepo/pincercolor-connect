@@ -41,3 +41,7 @@ color:#44cf69;
 .yellow {
 color:#fcfc23;
 }
+
+.bg {
+filter:blur(8px)6
+}
