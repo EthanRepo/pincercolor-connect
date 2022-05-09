@@ -65,15 +65,5 @@ color:#fcfc23;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  filter:blur(8px);
-}
-.button-link{
-    color: #ffffff;
-    text-decoration: none;
-    padding: 6px;
-}
-
-.button-link:hover{
-    transition: all 0.3s ease-in-out;
-    color: #ff6d6d;
+  filter:blur(20px);
 }
