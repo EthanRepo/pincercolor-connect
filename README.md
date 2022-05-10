@@ -14,4 +14,6 @@ What the Website Does:
 
 TinkerCad image for anyone wondering what this is:
 
-![image](https://ethanrepo.github.io/pincercolor-extension/pincercolortinkercad.png)
+![tinkercardimage](https://ethanrepo.github.io/pincercolor-connect/pincercolortinkercad.png)
+
+When on connect: click "c" on your keyboard to connect the pincercolor. If you press nothing it will say failed to connect.
