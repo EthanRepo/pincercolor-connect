@@ -1,3 +1,3 @@
 function cdFunction() {
-  document.getElementsByClassName('countdown').style.display = "block";
+  document.getElementById('connection').style.display = "block";
 }
