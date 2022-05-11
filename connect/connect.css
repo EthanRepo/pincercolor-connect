@@ -43,8 +43,9 @@ background-color:#1c1c1c;
     padding: 7px;
     margin: 5px;
 }
-                        
-
+p {
+font-size:24px;
+}
 .button-r:hover{
     transition: all 0.3s ease-in-out;
     background-color: #ff4747;
