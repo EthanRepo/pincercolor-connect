@@ -11,6 +11,20 @@ background-color:#1c1c1c;
     max-width: 100%;
     height: 100vh;           
 }
+/* actual button HTML element test */
+button {
+ color: #ffffff;
+    text-decoration: none;
+    border: #000000 solid 2px;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 5px;
+
+ button:hover {
+ transition: all 0.3s ease-in-out;
+    background-color: #000000;
+    color: #ffffff;
+}
 .button-r {
  color: #ffffff;
     text-decoration: none;
