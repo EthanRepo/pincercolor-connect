@@ -17,3 +17,9 @@ TinkerCad image for anyone wondering what this is:
 ![tinkercardimage](https://ethanrepo.github.io/pincercolor-connect/pincercolortinkercad.png)
 
 When on connect: click "c" on your keyboard to connect the pincercolor. If you press nothing it will say failed to connect.
+
+End of ReadMe
+
+# Why I made this Website
+
+I made this webiste, not only to add to the simple project of our toy for engineering, but to improve my programming skills. I recently started programming, and I only knew Intermediate HTML and Beginner/Intermediate CSS, as well has no JavaScript. With the creation of this website I have started to learn JavaScript, learnt a new form of HTML, and I am finally decent at CSS.
