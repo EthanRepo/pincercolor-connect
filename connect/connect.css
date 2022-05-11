@@ -20,6 +20,7 @@ button {
     padding: 7px;
     margin: 5px;
  font-family: 'Nunito', sans-serif;
+ font-size: 22px;
  /* button code by class */
 }
 .button-r {
