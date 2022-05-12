@@ -1,4 +1,5 @@
 var x = 0;
+var y = 0;
 function cdFunction() {
   document.getElementById('connect5').style.display = "block";
   document.getElementById('connectstart').style.display = "none";
