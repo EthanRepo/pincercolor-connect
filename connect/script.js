@@ -1,8 +1,8 @@
+var x = 0;
 function cdFunction() {
   document.getElementById('connect5').style.display = "block";
   document.getElementById('connectstart').style.display = "none";
   const FivetoFour = setTimeout(cdFive, 1000);
-  var x = 0;
 }
 function cdFive() {
   document.getElementById("connect5").style.display = "none"
@@ -27,11 +27,9 @@ function cdTwo() {
 function cdDone() {
 if (x === 1) {
   document.getElementById("connecty").style.display = "block"
-  document.getElementById("connectn").style.display = "none"
 document.getElementById("connect1").style.display = "none"
-} else if (x === 0) {
+} else {
 document.getElementById("connectn").style.display = "block"
-  document.getElementById("connecty").style.display = "none"
   document.getElementById("connect1").style.display = "none"
 }
 }
