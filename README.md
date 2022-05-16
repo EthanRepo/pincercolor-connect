@@ -16,7 +16,7 @@ TinkerCad image for anyone wondering what this is:
 
 ![tinkercardimage](https://ethanrepo.github.io/pincercolor-connect/pincercolortinkercad.png)
 
-When on connect: click "c" on your keyboard to connect the pincercolor. If you press nothing it will say failed to connect.
+When on connect: click a hidden button at the top of the screen for it to connect. If you don't know where, just highlight the whole page with ctrl + a.
 
 End of ReadMe
 
