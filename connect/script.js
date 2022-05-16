@@ -1,5 +1,4 @@
 var x = 0;
-element.addEventListener("keydown", changeX);
 function changeX() {
 x = 1;
 }
