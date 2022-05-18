@@ -11,10 +11,10 @@ background-color:#1c1c1c;
     max-width: 100%;
     height: 100vh;           
 }
-.button {
+button {
  color: #ffffff;
     text-decoration: none;
-    border: #ffffff solid 2px;
+    border: #44cf69 solid 2px;
     border-radius: 10px;
     padding: 7px;
     margin: 5px;
