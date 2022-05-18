@@ -45,6 +45,8 @@ background-color:#1c1c1c;
     border-radius: 10px;
     padding: 7px;
     margin: 5px;
+ font-family: 'Nunito', sans-serif;
+ font-size: 22px;
 }
 .button-y {
  color: #ffffff;
