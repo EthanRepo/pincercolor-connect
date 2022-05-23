@@ -3,7 +3,7 @@ var score = 0;
 function startEasy() {
 document.getElementById('easygamestart').style.display = "none";
   document.getElementById('easygaming').style.display = "block";
-   const gamingtimer = setTimeout(easyEnd, 4500);
+   const gamingtimer = setTimeout(easyEnd, 45000);
 }
  
 function easyEnd() {
