@@ -1,26 +1,22 @@
 var score = 0;
-var button = document.getElementById("startbutton");
-button.addEventListener("click", startEasy);
-    button.addEventListener("click", easyCountdown);
+
 function startEasy() {
 document.getElementById('easygamestart').style.display = "none";
   document.getElementById('easygaming').style.display = "block";
-  function easyGaming() {
-const gamingtimer = setTimeout(easyEnd, 4500);
-  }
+   const gamingtimer = setTimeout(easyEnd, 4500);
 }
+ 
 function easyEnd() {
 document.getElementById('easygameend').style.display = "block";
 document.getElementById('easygaming').style.display = "none";
     document.getElementById("endscore").innerHTML = "Score: " + score;
     }
-  }
-}
+
 function easyScore() {
 var red = document.getElementById("redg");
 var blue = document.getElementById("blueg");
-var green = document.getElementById("yellowg");
-var yellow = document.getElementById("greeng");
+var green = document.getElementById("greeng");
+var yellow = document.getElementById("yellowg");
 score + 100
 let colorpick = Math.floor((Math.random() * 4) + 1);
 if (colorpick == 1) {
