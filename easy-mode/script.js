@@ -17,7 +17,7 @@ var red = document.getElementById("redg");
 var blue = document.getElementById("blueg");
 var green = document.getElementById("greeng");
 var yellow = document.getElementById("yellowg");
-score + 100
+score += 100
 let colorpick = Math.floor((Math.random() * 4) + 1);
 if (colorpick == 1) {
 red.style.display = 'block';
